@@ -1,0 +1,74 @@
+year,district_name,neighborhood_name,population,residential_area_ha,net_density_hab_ha
+2021-01-01,Sant Andreu,Baró de Viver,2645,3.9,673
+2021-01-01,Horta-Guinardó,Can Baró,9233,14.3,645
+2021-01-01,Nou Barris,Can Peguera,2204,6.1,359
+2021-01-01,Nou Barris,Canyelles,6797,11.0,620
+2021-01-01,Nou Barris,Ciutat Meridiana,11026,15.1,729
+2021-01-01,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,13323,24.0,556
+2021-01-01,Horta-Guinardó,Horta,27707,63.2,439
+2021-01-01,Sants-Montjuïc,Hostafrancs,15842,22.1,717
+2021-01-01,Horta-Guinardó,Montbau,5071,11.4,447
+2021-01-01,Sant Andreu,Navas,22091,22.4,984
+2021-01-01,Les Corts,Pedralbes,11581,81.7,142
+2021-01-01,Nou Barris,Porta,27418,35.7,768
+2021-01-01,Sant Martí,Provençals del Poblenou,20949,15.3,1368
+2021-01-01,Sant Andreu,Sant Andreu,57954,76.5,758
+2021-01-01,Eixample,Sant Antoni,38053,41.3,921
+2021-01-01,Horta-Guinardó,Sant Genís dels Agudells,7249,16.9,430
+2021-01-01,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,46816,95.4,491
+2021-01-01,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,25659,82.1,313
+2021-01-01,Sant Martí,Sant Martí de Provençals,26032,23.4,1111
+2021-01-01,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",22131,32.4,683
+2021-01-01,Sants-Montjuïc,Sants,43082,59.4,726
+2021-01-01,Sants-Montjuïc,Sants - Badal,24576,25.1,980
+2021-01-01,Sarrià-Sant Gervasi,Sarrià,24405,95.4,256
+2021-01-01,Nou Barris,Torre Baró,2890,21.2,136
+2021-01-01,Nou Barris,Vallbona,1384,6.8,204
+2021-01-01,Gràcia,Vallcarca i els Penitents,16142,48.2,335
+2021-01-01,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",4697,242.0,19
+2021-01-01,Nou Barris,Verdun,12727,14.2,894
+2021-01-01,Nou Barris,Vilapicina i la Torre Llobeta,25674,29.3,875
+2021-01-01,Horta-Guinardó,el Baix Guinardó,25601,23.7,1079
+2021-01-01,Ciutat Vella,el Barri Gòtic,21827,34.1,639
+2021-01-01,Sant Martí,el Besòs i el Maresme,25657,28.1,913
+2021-01-01,Sant Andreu,el Bon Pastor,13582,17.8,763
+2021-01-01,Gràcia,el Camp d'en Grassot i Gràcia Nova,34932,38.5,907
+2021-01-01,Sant Martí,el Camp de l'Arpa del Clot,38360,42.9,894
+2021-01-01,Horta-Guinardó,el Carmel,32444,39.4,822
+2021-01-01,Sant Martí,el Clot,26520,23.4,1131
+2021-01-01,Gràcia,el Coll,7590,12.4,611
+2021-01-01,Sant Andreu,el Congrés i els Indians,14420,19.1,753
+2021-01-01,Eixample,el Fort Pienc,31262,33.6,930
+2021-01-01,Horta-Guinardó,el Guinardó,36939,52.0,710
+2021-01-01,Sant Martí,el Parc i la Llacuna del Poblenou,15603,22.3,699
+2021-01-01,Sants-Montjuïc,el Poble Sec,39400,38.1,1033
+2021-01-01,Sant Martí,el Poblenou,33976,45.0,755
+2021-01-01,Sarrià-Sant Gervasi,el Putxet i el Farró,29629,53.1,558
+2021-01-01,Ciutat Vella,el Raval,47228,49.6,952
+2021-01-01,Nou Barris,el Turó de la Peira,16025,13.3,1204
+2021-01-01,Eixample,l'Antiga Esquerra de l'Eixample,41990,66.9,627
+2021-01-01,Ciutat Vella,la Barceloneta,14643,13.5,1081
+2021-01-01,Sants-Montjuïc,la Bordeta,19292,20.8,928
+2021-01-01,Horta-Guinardó,la Clota,689,6.1,114
+2021-01-01,Eixample,la Dreta de l'Eixample,44675,113.9,392
+2021-01-01,Horta-Guinardó,la Font d'en Fargues,9458,38.8,244
+2021-01-01,Sants-Montjuïc,la Font de la Guatlla,10084,11.5,873
+2021-01-01,Nou Barris,la Guineueta,15189,22.0,689
+2021-01-01,Sants-Montjuïc,la Marina de Port,30741,38.9,789
+2021-01-01,Sants-Montjuïc,la Marina del Prat Vermell,1350,35.5,38
+2021-01-01,Les Corts,la Maternitat i Sant Ramon,23574,31.8,741
+2021-01-01,Eixample,la Nova Esquerra de l'Eixample,57054,65.2,876
+2021-01-01,Nou Barris,la Prosperitat,26669,27.1,985
+2021-01-01,Eixample,la Sagrada Família,51319,51.0,1007
+2021-01-01,Sant Andreu,la Sagrera,29351,38.1,770
+2021-01-01,Gràcia,la Salut,13282,19.5,680
+2021-01-01,Horta-Guinardó,la Teixonera,11926,16.9,707
+2021-01-01,Nou Barris,la Trinitat Nova,7507,12.6,598
+2021-01-01,Sant Andreu,la Trinitat Vella,10364,12.7,817
+2021-01-01,Horta-Guinardó,la Vall d'Hebron,5882,7.2,813
+2021-01-01,Sant Martí,la Verneda i la Pau,28585,40.0,714
+2021-01-01,Sant Martí,la Vila Olímpica del Poblenou,9240,24.3,380
+2021-01-01,Gràcia,la Vila de Gràcia,49492,84.0,589
+2021-01-01,Les Corts,les Corts,45422,64.7,702
+2021-01-01,Nou Barris,les Roquetes,16373,18.2,897
+2021-01-01,Sarrià-Sant Gervasi,les Tres Torres,16228,42.5,382

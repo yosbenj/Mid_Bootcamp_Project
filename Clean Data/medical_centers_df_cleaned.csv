@@ -1,0 +1,74 @@
+neighborhood_name,medical_center,year,district_name,type,admin
+Baró de Viver,None,2023-01-01,Sant Andreu,None,None
+Can Baró,None,2023-01-01,Horta-Guinardó,None,None
+Can Peguera,None,2023-01-01,Nou Barris,None,None
+Canyelles,None,2023-01-01,Nou Barris,None,None
+Ciutat Meridiana,None,2023-01-01,Nou Barris,None,None
+Diagonal Mar i el Front Marítim del Poblenou,Centre d'Atenció Primària Ramon Turró,2023-01-01,Sant Martí,CAP,Public
+Horta,"Hospital Mare de Déu de la Mercè, Centre d'Urgències d'Atenció Primària Horta, Residència Sociosanitaria Assistida Psicoclínica Mare de Déu de la Mercè, Residència Sociosanitaria Assistida Psicoclínica Mare de Déu de la Mercè",2022-01-01,Horta-Guinardó,"Hospital, CUAP, Other, Other","Private, Public, Private, Private"
+Hostafrancs,None,2023-01-01,Sants-Montjuïc,None,None
+Montbau,"Hospital Sant Rafael, Vall d'Hebron Barcelona Hospital Campus, Centre d'Esclerosi Múltiple de Catalunya - CEMCAT, Centre d'Atenció Primària San Rafael",2023-01-01,Horta-Guinardó,"Hospital, Hospital, Other, CAP","Private, Public, Private, Public"
+Navas,None,2023-01-01,Sant Andreu,None,None
+Pedralbes,None,2023-01-01,Les Corts,None,None
+Porta,None,2023-01-01,Nou Barris,None,None
+Provençals del Poblenou,Policlínica ICOA - Instituto de Cirugia Ocular Avanzada,2023-01-01,Sant Martí,Other,Private
+Sant Andreu,"Centre d'Urgències d'Atenció Primària Casernes de Sant Andreu, Clínica Coroleu, Centre d'Atenció Primària Casernes, Clínica Sant Jordi, Centre d'Atenció Primària Sant Andreu",2023-01-01,Sant Andreu,"CUAP, Other, CAP, Other, CAP","Public, Private, Public, Private, Public"
+Sant Antoni,"Centre d'Atenció Primària Manso, Centre d'Atenció Primària Manso",2023-01-01,Eixample,"CAP, CAP","Public, Public"
+Sant Genís dels Agudells,None,2023-01-01,Horta-Guinardó,None,None
+Sant Gervasi - Galvany,"Clínica Dermatològica Dermik, Centre d'Atenció Primària Adrià, Centre Hospitalari Copèrnic, Hospital Plató, Fundación Instituto de Trastornos Alimentarios, Centre d'Oftalmologia Barraquer, Clínica Oftalmològica Visioncore, Centre d'Urgències d'Atenció Primària, Hospital El Pilar - Institut Cardiovascular Sant Jordi",2022-01-01,Sarrià-Sant Gervasi,"Other, CAP, Hospital, Hospital, Other, Other, Other, CUAP, Hospital","Private, Public, Private, Private, Private, Private, Private, Public, Private"
+Sant Gervasi - la Bonanova,"Clínica Sant Honorat, Clínica Sagrada Família, Clínica Bonanova de Cirurgia Ocular, Clínica Oftalmologica Castanera, Clínica Serveis Clinics S.A.U, Centro Médico Teknon",2022-01-01,Sarrià-Sant Gervasi,"Other, Other, Other, Other, Other, Other","Private, Private, Private, Private, Private, Private"
+Sant Martí de Provençals,"Centre d'Atenció Primària Sant Martí, Centre d'Atenció Primària Sant Martí",2023-01-01,Sant Martí,"CAP, CAP","Public, Public"
+"Sant Pere, Santa Caterina i la Ribera",Centre d'Atenció Primària Casc Antic,2023-01-01,Ciutat Vella,CAP,Public
+Sants,"Hospital de dia - Numància, Centre d'Atenció Primària Numància, Servei d'Urgències Pediàtriques, Centre d'Atenció Primària Sants",2022-01-01,Sants-Montjuïc,"Hospital, CAP, Other, CAP","Private, Public, Private, Public"
+Sants - Badal,Centre d'Atenció Primària Roger,2023-01-01,Sants-Montjuïc,CAP,Public
+Sarrià,"Hospital de Dia d'Adolescents Les Corts - Sarrià - Sant Gervasi, Hospital CIMA. Centro Internacional de Medicina Avanzada, Centre d'Atenció Primària Sarrià, Centre Mèdic Vilasalut *Barcelona, Clínica Creu Blanca, Clínica Planas",2022-01-01,Sarrià-Sant Gervasi,"Hospital, Hospital, CAP, Other, Other, Other","Private, Private, Public, Private, Private, Private"
+Torre Baró,"Centre d'Atenció Primària Ciutat Meridiana, Centre d'Atenció Primària Ciutat Meridiana",2023-01-01,Nou Barris,"CAP, CAP","Public, Public"
+Vallbona,None,2023-01-01,Nou Barris,None,None
+Vallcarca i els Penitents,"Centre d'Atenció Primària Vallcarca-Sant Gervasi, Hospital de Dia Sant Jordi, Clínica Geriàtrica Solàrium, Hospital Delfos, Hospital Quirónsalud Barcelona",2023-01-01,Gràcia,"CAP, Hospital, Other, Hospital, Hospital","Public, Private, Private, Private, Private"
+"Vallvidrera, el Tibidabo i les Planes","Centre d'Atenció Primària Les Planes, Centre d'Atenció Primària Vallvidrera",2023-01-01,Sarrià-Sant Gervasi,"CAP, CAP","Public, Public"
+Verdun,Fundació Hospital de Dia de Nou Barris,2023-01-01,Nou Barris,Hospital,Private
+Vilapicina i la Torre Llobeta,"Centre d'Atenció Primària, Centre d'Atenció Primària, Hospital de Dia",2023-01-01,Nou Barris,"CAP, CAP, Hospital","Public, Public, Private"
+el Baix Guinardó,Centre d'Atenció Primària Sardenya,2023-01-01,Horta-Guinardó,CAP,Public
+el Barri Gòtic,Centre d'Atenció Primària Gòtic,2023-01-01,Ciutat Vella,CAP,Public
+el Besòs i el Maresme,"Centre d'Atenció Primària Besòs, Hospital de Dia",2023-01-01,Sant Martí,"CAP, Hospital","Public, Private"
+el Bon Pastor,Centre d'Atenció Primària Bon Pastor,2023-01-01,Sant Andreu,CAP,Public
+el Camp d'en Grassot i Gràcia Nova,"Clínica Nostra Senyora del Remei, Centre d'Atenció Primària Pare Claret",2023-01-01,Gràcia,"Other, CAP","Private, Public"
+el Camp de l'Arpa del Clot,"Hospital de Dia Còrsega, Centre d'Atenció Primària Passeig Maragall",2022-01-01,Sant Martí,"Hospital, CAP","Private, Public"
+el Carmel,"Centre d'Atenció Primària Horta, Centre d'Atenció Primària El Carmel",2023-01-01,Horta-Guinardó,"CAP, CAP","Public, Public"
+el Clot,Centre d'Atenció Primària El Clot,2023-01-01,Sant Martí,CAP,Public
+el Coll,None,2023-01-01,Gràcia,None,None
+el Congrés i els Indians,None,2023-01-01,Sant Andreu,None,None
+el Fort Pienc,"Centre d'Atenció Primària Carles I, Centre d'Atenció Primària Passeig Sant Joan, Aprovat el projecte del nou CAP Fort Pienc  (previst obertura durant el 2025)",2023-01-01,Eixample,"CAP, CAP, Other","Public, Public, Private"
+el Guinardó,"Hospital de la Santa Creu i Sant Pau, Institut d'Urologia, Nefrologia i Andrologia, Centre d'Atenció Primària Guinardó",2023-01-01,Horta-Guinardó,"Hospital, Other, CAP","Private, Private, Public"
+el Parc i la Llacuna del Poblenou,None,2023-01-01,Sant Martí,None,None
+el Poble Sec,Centre d'Atenció Primària Les Hortes,2023-01-01,Sants-Montjuïc,CAP,Public
+el Poblenou,Centre d'Atenció Primària Poblenou,2023-01-01,Sant Martí,CAP,Public
+el Putxet i el Farró,"Hospital Fremap - Centre de Prevenció i Rehabilitació, Policlínica Barcelona",2022-01-01,Sarrià-Sant Gervasi,"Hospital, Other","Private, Private"
+el Raval,"Centre d'Atenció Primària Doctor Lluís Sayé, Centre d'Atenció Primària Drassanes, Centre d'Urgències d'Atenció Primària  Ciutat Vella - Peracamps",2023-01-01,Ciutat Vella,"CAP, CAP, CUAP","Public, Public, Public"
+el Turó de la Peira,Centre d'Atenció Primària Turó,2023-01-01,Nou Barris,CAP,Public
+l'Antiga Esquerra de l'Eixample,"Centre d'Atenció Primària Casanova, Hospital Clínic i Provincial, Cliníca Axisclínic *Comte d'Urgell, Medicina Estètica Balmes",2023-01-01,Eixample,"CAP, Hospital, Other, Other","Public, Public, Private, Private"
+la Barceloneta,"CBC Clínica Barceloneta, Hospital del Mar, Centre d'Atenció Primària Barceloneta",2023-01-01,Ciutat Vella,"Other, Hospital, CAP","Private, Public, Public"
+la Bordeta,Centre d'Atenció Primària Bordeta - Magòria,2023-01-01,Sants-Montjuïc,CAP,Public
+la Clota,None,2023-01-01,Horta-Guinardó,None,None
+la Dreta de l'Eixample,"Hospital de Nens de Barcelona, Centre d'Atenció Primària Roger de Flor, Comunitat Terapèutica Clínica Llúria",2023-01-01,Eixample,"Hospital, CAP, Other","Private, Public, Private"
+la Font d'en Fargues,None,2023-01-01,Horta-Guinardó,None,None
+la Font de la Guatlla,None,2023-01-01,Sants-Montjuïc,None,None
+la Guineueta,Centre d'Atenció Primària Guineueta,2021-01-01,Nou Barris,CAP,Public
+la Marina de Port,"Hospital de Dia per Adolescents en Salut Mental, Centre d'Atenció Primària de la Marina, Clínica Sant Antoni, Clínica de Podologia Integral Pododerm, Centre d'Atenció Primària Doctor Carles Ribas",2023-01-01,Sants-Montjuïc,"Hospital, CAP, Other, Other, CAP","Private, Public, Private, Private, Public"
+la Marina del Prat Vermell,None,2023-01-01,Sants-Montjuïc,None,None
+la Maternitat i Sant Ramon,"Unitat Cirurgia Barcelona, Hospital Universitari Quirón Dexeus, Centre d'Atenció Primària Les Corts, Hospital Casa de la Maternitat",2021-01-01,Les Corts,"Other, Hospital, CAP, Hospital","Private, Private, Public, Private"
+la Nova Esquerra de l'Eixample,"Centre d'Atenció Primària Comte Borrell, Clínica Centro Médico Aragón, Centre d'Urgències d'Atenció Primària, Clínica Cipsalut, Hospital  Universitari del Sagrat Cor",2023-01-01,Eixample,"CAP, Other, CUAP, Other, Hospital","Public, Private, Public, Private, Private"
+la Prosperitat,Centre d'Atenció Primària Rio de Janeiro,2023-01-01,Nou Barris,CAP,Public
+la Sagrada Família,"Centre d'Atenció Primària Sagrada Família, Centre d'Urgències d'Atenció Primària Hospital Dos de Maig",2023-01-01,Eixample,"CAP, Hospital","Public, Private"
+la Sagrera,"Centre d'Atenció Primària La Sagrera, Centre de Dia Serveis Geriàtrics de Barcelona *Av Meridiana, Centre de Dia Serveis Geriàtrics de Barcelona *Av Meridiana",2023-01-01,Sant Andreu,"CAP, Other, Other","Public, Private, Private"
+la Salut,"Hospital  Sociosanitari Mutuam Güell, Hospital de Dia, Centre d'Atenció Primària Larrard, Centre d'Atenció Primària Larrard, Hospital de l'Esperança, Nou Hospital Evangèlic, Centre d'Atenció Primària Sanllehy",2022-01-01,Gràcia,"Hospital, Hospital, CAP, CAP, Hospital, Hospital, CAP","Private, Private, Public, Public, Public, Private, Public"
+la Teixonera,None,2023-01-01,Horta-Guinardó,None,None
+la Trinitat Nova,Centre d'Atenció Primària Chafarinas,2023-01-01,Nou Barris,CAP,Public
+la Trinitat Vella,Centre d'Atenció Primària Trinitat Vella,2023-01-01,Sant Andreu,CAP,Public
+la Vall d'Hebron,None,2023-01-01,Horta-Guinardó,None,None
+la Verneda i la Pau,Centre d'Atenció Primària La Pau,2023-01-01,Sant Martí,CAP,Public
+la Vila Olímpica del Poblenou,Centre d'Atenció Primària Vila Olímpica,2023-01-01,Sant Martí,CAP,Public
+la Vila de Gràcia,"Clínica Sanza, Centre d'Atenció Primària  Vila de Gràcia-Cibeles, Institut Oftalmologia Gabriel Simón",2023-01-01,Gràcia,"Other, CAP, Other","Private, Public, Private"
+les Corts,"Clínica Institut Marquès, Hospital de Barcelona, Hospital de Dia, Centre d'Atenció Primària Montnegre",2023-01-01,Les Corts,"Other, Hospital, Hospital, CAP","Private, Private, Private, Public"
+les Roquetes,Centre d'Atenció Primària Roquetes,2023-01-01,Nou Barris,CAP,Public
+les Tres Torres,"Clínica Oftalvist, Clinica del Son Estivill, Instituto Oftalmológico Tres Torres, Centre Planificació Familiar, Clínica Mi Tres Torres, Clínica Corachan",2022-01-01,Sarrià-Sant Gervasi,"Other, Other, Other, Other, Other, Other","Private, Private, Private, Private, Private, Private"

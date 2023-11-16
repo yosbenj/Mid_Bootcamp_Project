@@ -1,0 +1,74 @@
+neighborhood_name,district_name,median_income,medical_center,type,admin,population,residential_area_ha,net_density_hab_ha
+Baró de Viver,Sant Andreu,29438,None,None,None,2645,3.9,673
+Can Baró,Horta-Guinardó,45922,None,None,None,9233,14.3,645
+Can Peguera,Nou Barris,28117,None,None,None,2204,6.1,359
+Canyelles,Nou Barris,43158,None,None,None,6797,11.0,620
+Ciutat Meridiana,Nou Barris,29393,None,None,None,11026,15.1,729
+Diagonal Mar i el Front Marítim del Poblenou,Sant Martí,60322,Centre d'Atenció Primària Ramon Turró,CAP,Public,13323,24.0,556
+Horta,Horta-Guinardó,48919,"Hospital Mare de Déu de la Mercè, Centre d'Urgències d'Atenció Primària Horta, Residència Sociosanitaria Assistida Psicoclínica Mare de Déu de la Mercè, Residència Sociosanitaria Assistida Psicoclínica Mare de Déu de la Mercè","Hospital, CUAP, Other, Other","Private, Public, Private, Private",27707,63.2,439
+Hostafrancs,Sants-Montjuïc,45256,None,None,None,15842,22.1,717
+Montbau,Horta-Guinardó,44081,"Hospital Sant Rafael, Vall d'Hebron Barcelona Hospital Campus, Centre d'Esclerosi Múltiple de Catalunya - CEMCAT, Centre d'Atenció Primària San Rafael","Hospital, Hospital, Other, CAP","Private, Public, Private, Public",5071,11.4,447
+Navas,Sant Andreu,48680,None,None,None,22091,22.4,984
+Pedralbes,Les Corts,131719,None,None,None,11581,81.7,142
+Porta,Nou Barris,38889,None,None,None,27418,35.7,768
+Provençals del Poblenou,Sant Martí,45927,Policlínica ICOA - Instituto de Cirugia Ocular Avanzada,Other,Private,20949,15.3,1368
+Sant Andreu,Sant Andreu,49842,"Centre d'Urgències d'Atenció Primària Casernes de Sant Andreu, Clínica Coroleu, Centre d'Atenció Primària Casernes, Clínica Sant Jordi, Centre d'Atenció Primària Sant Andreu","CUAP, Other, CAP, Other, CAP","Public, Private, Public, Private, Public",57954,76.5,758
+Sant Antoni,Eixample,51740,"Centre d'Atenció Primària Manso, Centre d'Atenció Primària Manso","CAP, CAP","Public, Public",38053,41.3,921
+Sant Genís dels Agudells,Horta-Guinardó,41460,None,None,None,7249,16.9,430
+Sant Gervasi - Galvany,Sarrià-Sant Gervasi,96493,"Clínica Dermatològica Dermik, Centre d'Atenció Primària Adrià, Centre Hospitalari Copèrnic, Hospital Plató, Fundación Instituto de Trastornos Alimentarios, Centre d'Oftalmologia Barraquer, Clínica Oftalmològica Visioncore, Centre d'Urgències d'Atenció Primària, Hospital El Pilar - Institut Cardiovascular Sant Jordi","Other, CAP, Hospital, Hospital, Other, Other, Other, CUAP, Hospital","Private, Public, Private, Private, Private, Private, Private, Public, Private",46816,95.4,491
+Sant Gervasi - la Bonanova,Sarrià-Sant Gervasi,109582,"Clínica Sant Honorat, Clínica Sagrada Família, Clínica Bonanova de Cirurgia Ocular, Clínica Oftalmologica Castanera, Clínica Serveis Clinics S.A.U, Centro Médico Teknon","Other, Other, Other, Other, Other, Other","Private, Private, Private, Private, Private, Private",25659,82.1,313
+Sant Martí de Provençals,Sant Martí,40957,"Centre d'Atenció Primària Sant Martí, Centre d'Atenció Primària Sant Martí","CAP, CAP","Public, Public",26032,23.4,1111
+"Sant Pere, Santa Caterina i la Ribera",Ciutat Vella,38023,Centre d'Atenció Primària Casc Antic,CAP,Public,22131,32.4,683
+Sants,Sants-Montjuïc,48634,"Hospital de dia - Numància, Centre d'Atenció Primària Numància, Servei d'Urgències Pediàtriques, Centre d'Atenció Primària Sants","Hospital, CAP, Other, CAP","Private, Public, Private, Public",43082,59.4,726
+Sants - Badal,Sants-Montjuïc,44526,Centre d'Atenció Primària Roger,CAP,Public,24576,25.1,980
+Sarrià,Sarrià-Sant Gervasi,93898,"Hospital de Dia d'Adolescents Les Corts - Sarrià - Sant Gervasi, Hospital CIMA. Centro Internacional de Medicina Avanzada, Centre d'Atenció Primària Sarrià, Centre Mèdic Vilasalut *Barcelona, Clínica Creu Blanca, Clínica Planas","Hospital, Hospital, CAP, Other, Other, Other","Private, Private, Public, Private, Private, Private",24405,95.4,256
+Torre Baró,Nou Barris,32808,"Centre d'Atenció Primària Ciutat Meridiana, Centre d'Atenció Primària Ciutat Meridiana","CAP, CAP","Public, Public",2890,21.2,136
+Vallbona,Nou Barris,31943,None,None,None,1384,6.8,204
+Vallcarca i els Penitents,Gràcia,62980,"Centre d'Atenció Primària Vallcarca-Sant Gervasi, Hospital de Dia Sant Jordi, Clínica Geriàtrica Solàrium, Hospital Delfos, Hospital Quirónsalud Barcelona","CAP, Hospital, Other, Hospital, Hospital","Public, Private, Private, Private, Private",16142,48.2,335
+"Vallvidrera, el Tibidabo i les Planes",Sarrià-Sant Gervasi,102026,"Centre d'Atenció Primària Les Planes, Centre d'Atenció Primària Vallvidrera","CAP, CAP","Public, Public",4697,242.0,19
+Verdun,Nou Barris,32005,Fundació Hospital de Dia de Nou Barris,Hospital,Private,12727,14.2,894
+Vilapicina i la Torre Llobeta,Nou Barris,44543,"Centre d'Atenció Primària, Centre d'Atenció Primària, Hospital de Dia","CAP, CAP, Hospital","Public, Public, Private",25674,29.3,875
+el Baix Guinardó,Horta-Guinardó,49431,Centre d'Atenció Primària Sardenya,CAP,Public,25601,23.7,1079
+el Barri Gòtic,Ciutat Vella,37411,Centre d'Atenció Primària Gòtic,CAP,Public,21827,34.1,639
+el Besòs i el Maresme,Sant Martí,31033,"Centre d'Atenció Primària Besòs, Hospital de Dia","CAP, Hospital","Public, Private",25657,28.1,913
+el Bon Pastor,Sant Andreu,33564,Centre d'Atenció Primària Bon Pastor,CAP,Public,13582,17.8,763
+el Camp d'en Grassot i Gràcia Nova,Gràcia,57618,"Clínica Nostra Senyora del Remei, Centre d'Atenció Primària Pare Claret","Other, CAP","Private, Public",34932,38.5,907
+el Camp de l'Arpa del Clot,Sant Martí,46429,"Hospital de Dia Còrsega, Centre d'Atenció Primària Passeig Maragall","Hospital, CAP","Private, Public",38360,42.9,894
+el Carmel,Horta-Guinardó,34336,"Centre d'Atenció Primària Horta, Centre d'Atenció Primària El Carmel","CAP, CAP","Public, Public",32444,39.4,822
+el Clot,Sant Martí,48355,Centre d'Atenció Primària El Clot,CAP,Public,26520,23.4,1131
+el Coll,Gràcia,47018,None,None,None,7590,12.4,611
+el Congrés i els Indians,Sant Andreu,46279,None,None,None,14420,19.1,753
+el Fort Pienc,Eixample,55616,"Centre d'Atenció Primària Carles I, Centre d'Atenció Primària Passeig Sant Joan, Aprovat el projecte del nou CAP Fort Pienc  (previst obertura durant el 2025)","CAP, CAP, Other","Public, Public, Private",31262,33.6,930
+el Guinardó,Horta-Guinardó,46870,"Hospital de la Santa Creu i Sant Pau, Institut d'Urologia, Nefrologia i Andrologia, Centre d'Atenció Primària Guinardó","Hospital, Other, CAP","Private, Private, Public",36939,52.0,710
+el Parc i la Llacuna del Poblenou,Sant Martí,53068,None,None,None,15603,22.3,699
+el Poble Sec,Sants-Montjuïc,38854,Centre d'Atenció Primària Les Hortes,CAP,Public,39400,38.1,1033
+el Poblenou,Sant Martí,55700,Centre d'Atenció Primària Poblenou,CAP,Public,33976,45.0,755
+el Putxet i el Farró,Sarrià-Sant Gervasi,69723,"Hospital Fremap - Centre de Prevenció i Rehabilitació, Policlínica Barcelona","Hospital, Other","Private, Private",29629,53.1,558
+el Raval,Ciutat Vella,32144,"Centre d'Atenció Primària Doctor Lluís Sayé, Centre d'Atenció Primària Drassanes, Centre d'Urgències d'Atenció Primària  Ciutat Vella - Peracamps","CAP, CAP, CUAP","Public, Public, Public",47228,49.6,952
+el Turó de la Peira,Nou Barris,33272,Centre d'Atenció Primària Turó,CAP,Public,16025,13.3,1204
+l'Antiga Esquerra de l'Eixample,Eixample,64286,"Centre d'Atenció Primària Casanova, Hospital Clínic i Provincial, Cliníca Axisclínic *Comte d'Urgell, Medicina Estètica Balmes","CAP, Hospital, Other, Other","Public, Public, Private, Private",41990,66.9,627
+la Barceloneta,Ciutat Vella,33103,"CBC Clínica Barceloneta, Hospital del Mar, Centre d'Atenció Primària Barceloneta","Other, Hospital, CAP","Private, Public, Public",14643,13.5,1081
+la Bordeta,Sants-Montjuïc,47876,Centre d'Atenció Primària Bordeta - Magòria,CAP,Public,19292,20.8,928
+la Clota,Horta-Guinardó,46694,None,None,None,689,6.1,114
+la Dreta de l'Eixample,Eixample,70978,"Hospital de Nens de Barcelona, Centre d'Atenció Primària Roger de Flor, Comunitat Terapèutica Clínica Llúria","Hospital, CAP, Other","Private, Public, Private",44675,113.9,392
+la Font d'en Fargues,Horta-Guinardó,57081,None,None,None,9458,38.8,244
+la Font de la Guatlla,Sants-Montjuïc,46102,None,None,None,10084,11.5,873
+la Guineueta,Nou Barris,41713,Centre d'Atenció Primària Guineueta,CAP,Public,15189,22.0,689
+la Marina de Port,Sants-Montjuïc,39638,"Hospital de Dia per Adolescents en Salut Mental, Centre d'Atenció Primària de la Marina, Clínica Sant Antoni, Clínica de Podologia Integral Pododerm, Centre d'Atenció Primària Doctor Carles Ribas","Hospital, CAP, Other, Other, CAP","Private, Public, Private, Private, Public",30741,38.9,789
+la Marina del Prat Vermell,Sants-Montjuïc,32820,None,None,None,1350,35.5,38
+la Maternitat i Sant Ramon,Les Corts,59153,"Unitat Cirurgia Barcelona, Hospital Universitari Quirón Dexeus, Centre d'Atenció Primària Les Corts, Hospital Casa de la Maternitat","Other, Hospital, CAP, Hospital","Private, Private, Public, Private",23574,31.8,741
+la Nova Esquerra de l'Eixample,Eixample,57920,"Centre d'Atenció Primària Comte Borrell, Clínica Centro Médico Aragón, Centre d'Urgències d'Atenció Primària, Clínica Cipsalut, Hospital  Universitari del Sagrat Cor","CAP, Other, CUAP, Other, Hospital","Public, Private, Public, Private, Private",57054,65.2,876
+la Prosperitat,Nou Barris,35314,Centre d'Atenció Primària Rio de Janeiro,CAP,Public,26669,27.1,985
+la Sagrada Família,Eixample,51427,"Centre d'Atenció Primària Sagrada Família, Centre d'Urgències d'Atenció Primària Hospital Dos de Maig","CAP, Hospital","Public, Private",51319,51.0,1007
+la Sagrera,Sant Andreu,46743,"Centre d'Atenció Primària La Sagrera, Centre de Dia Serveis Geriàtrics de Barcelona *Av Meridiana, Centre de Dia Serveis Geriàtrics de Barcelona *Av Meridiana","CAP, Other, Other","Public, Private, Private",29351,38.1,770
+la Salut,Gràcia,57643,"Hospital  Sociosanitari Mutuam Güell, Hospital de Dia, Centre d'Atenció Primària Larrard, Centre d'Atenció Primària Larrard, Hospital de l'Esperança, Nou Hospital Evangèlic, Centre d'Atenció Primària Sanllehy","Hospital, Hospital, CAP, CAP, Hospital, Hospital, CAP","Private, Private, Public, Public, Public, Private, Public",13282,19.5,680
+la Teixonera,Horta-Guinardó,38183,None,None,None,11926,16.9,707
+la Trinitat Nova,Nou Barris,30184,Centre d'Atenció Primària Chafarinas,CAP,Public,7507,12.6,598
+la Trinitat Vella,Sant Andreu,31145,Centre d'Atenció Primària Trinitat Vella,CAP,Public,10364,12.7,817
+la Vall d'Hebron,Horta-Guinardó,51074,None,None,None,5882,7.2,813
+la Verneda i la Pau,Sant Martí,40695,Centre d'Atenció Primària La Pau,CAP,Public,28585,40.0,714
+la Vila Olímpica del Poblenou,Sant Martí,83317,Centre d'Atenció Primària Vila Olímpica,CAP,Public,9240,24.3,380
+la Vila de Gràcia,Gràcia,50733,"Clínica Sanza, Centre d'Atenció Primària  Vila de Gràcia-Cibeles, Institut Oftalmologia Gabriel Simón","Other, CAP, Other","Private, Public, Private",49492,84.0,589
+les Corts,Les Corts,65816,"Clínica Institut Marquès, Hospital de Barcelona, Hospital de Dia, Centre d'Atenció Primària Montnegre","Other, Hospital, Hospital, CAP","Private, Private, Private, Public",45422,64.7,702
+les Roquetes,Nou Barris,31584,Centre d'Atenció Primària Roquetes,CAP,Public,16373,18.2,897
+les Tres Torres,Sarrià-Sant Gervasi,131719,"Clínica Oftalvist, Clinica del Son Estivill, Instituto Oftalmológico Tres Torres, Centre Planificació Familiar, Clínica Mi Tres Torres, Clínica Corachan","Other, Other, Other, Other, Other, Other","Private, Private, Private, Private, Private, Private",16228,42.5,382
