@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a data-driven analysis exploring the relationship between median income and the distribution of healthcare facilities across the neighborhoods of Barcelona. This project was developed as part of a data analytics initiative to understand socio-economic impacts on healthcare accessibility.
 
----
+_____________________
 
 ## Authors
 https://github.com/yosbenj
