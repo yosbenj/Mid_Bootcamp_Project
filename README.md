@@ -29,8 +29,10 @@ Explore the interactive maps and visualizations of healthcare distribution and m
 
 1. Link to Tableau Dashboard:
    https://public.tableau.com/app/profile/yosra.benjelloun.el.hassani/viz/Project_17001859253750/Dashboard1
+   
 2. Link to Interactive Map 1 (median income by neighborhoods):
    https://datawrapper.dwcdn.net/Qfzgi/1/
+   
 3. Link to Interactive Map 2 (median income by districts):
    https://datawrapper.dwcdn.net/eG16l/1/
 
@@ -39,7 +41,8 @@ Explore the interactive maps and visualizations of healthcare distribution and m
 ## Final Presentation
 For a detailed presentation of our findings and insights, refer to the "Presentation" folder.
 
-Healthcare Accessibility in Barcelona's Neighborhoods: https://github.com/yosbenj/Mid_Bootcamp_Project/blob/main/Presentation/Project%20Presentation_%20Health%20Disparities.pdf
+Healthcare Accessibility in Barcelona's Neighborhoods: 
+https://github.com/yosbenj/Mid_Bootcamp_Project/blob/main/Presentation/Project%20Presentation_%20Health%20Disparities.pdf
 
 ---
 
@@ -50,8 +53,10 @@ https://opendata-ajuntament.barcelona.cat/en/
 Additional context and data were obtained from:
 
 1. Demographic indicators. Population density (inhabitants / ha) of the city of Barcelona:
-   https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-densitat/resource/540e48d8-c432-43df-b3ba-a0cf009b90ef
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/est-densitat/resource/540e48d8-c432-43df-b3ba-a0cf009b90ef
+
 2. Average gross taxable income per household (€/Year) for the city of Barcelona:
-   https://opendata-ajuntament.barcelona.cat/data/en/dataset/atles-renda-bruta-per-llar
-4. Hospitals and primary health services of the city of Barcelona:
-   https://opendata-ajuntament.barcelona.cat/data/en/dataset/sanitat-hospitals-atencio-primaria
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/atles-renda-bruta-per-llar
+
+3. Hospitals and primary health services of the city of Barcelona:
+https://opendata-ajuntament.barcelona.cat/data/en/dataset/sanitat-hospitals-atencio-primaria
