@@ -47,7 +47,7 @@ https://github.com/yosbenj/Mid_Bootcamp_Project/blob/main/Presentation/Project%2
 ---
 
 ## Data Sources
-Data on healthcare facilities and demographic information was sourced from Official Barcelona Open Data repositories: 
+Data on healthcare facilities and demographic information was sourced from Official Barcelona Open Data: 
 https://opendata-ajuntament.barcelona.cat/en/
 
 Additional context and data were obtained from:
