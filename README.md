@@ -39,7 +39,7 @@ Explore the interactive maps and visualizations of healthcare distribution and m
 ---
 
 ## Final Presentation
-For a detailed presentation of our findings and insights, refer to the "Presentation" folder.
+For a detailed presentation of my findings and insights, refer to the "Presentation" folder.
 
 Healthcare Accessibility in Barcelona's Neighborhoods: 
 https://github.com/yosbenj/Mid_Bootcamp_Project/blob/main/Presentation/Project%20Presentation_%20Health%20Disparities.pdf
